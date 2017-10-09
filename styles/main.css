@@ -179,7 +179,7 @@ img.article-image {
     height: auto;
 }
 
-.demo-card-image.mdl-card {
+.card-image.mdl-card {
     width: 100%;
     height: 100%;
 }
@@ -200,7 +200,7 @@ img.article-image {
     background: url("../img/ksn.jpg") center/cover;
 }
 
-.demo-card-image>.mdl-card__actions {
+.card-image>.mdl-card__actions {
     opacity: 0.0;
     -webkit-transition: all 400ms ease-in-out;
     -moz-transition: all 400ms ease-in-out;
@@ -212,11 +212,11 @@ img.article-image {
     background: rgba(0, 0, 0, 0.3);
 }
 
-.demo-card-image:hover>.mdl-card__actions {
+.card-image:hover>.mdl-card__actions {
     opacity: 1.0;
 }
 
-.demo-card-image__filename {
+.card-image__filename {
     color: #fff;
     font-size: 14px;
     font-weight: 500;
@@ -236,7 +236,7 @@ img.article-image {
     z-index: 900;
 }
 
-.demo-list-icon {
+.list-icon {
     width: 300px;
 }
 
