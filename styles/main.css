@@ -188,8 +188,16 @@ img.article-image {
     background: url("../img/person1.jpg") center/cover;
 }
 
-.person2 {
-    background: url("../img/person2.jpg") center/cover;
+.agusti {
+    background: url("../img/side-profile.jpg") center/cover;
+}
+
+.farhan {
+    background: url("../img/43085.jpg") center/cover;
+}
+
+.rizqi {
+    background: url("../img/ksn.jpg") center/cover;
 }
 
 .demo-card-image>.mdl-card__actions {
