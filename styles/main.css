@@ -185,19 +185,43 @@ img.article-image {
 }
 
 .ari {
-    background: url("../img/ari.jpg") center/cover;
+    height: 0;
+    padding: 0;
+    padding-bottom: 75%;
+    background: url("../img/ari.jpg");
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .agusti {
-    background: url("../img/side-profile.jpg") center/cover;
+    height: 0;
+    padding: 0;
+    padding-bottom: 75%;
+    background: url("../img/side-profile.jpg");
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .farhan {
-    background: url("../img/43085.jpg") center/cover;
+    height: 0;
+    padding: 0;
+    padding-bottom: 75%;
+    background: url("../img/43085.jpg");
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .rizqi {
-    background: url("../img/ksn.jpg") center/cover;
+    height: 0;
+    padding: 0;
+    padding-bottom: 75%;
+    background: url("../img/ksn.jpg");
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .card-image>.mdl-card__actions {
